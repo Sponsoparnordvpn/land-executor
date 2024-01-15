@@ -66,7 +66,7 @@ function OpenProj(x) {
       }
     }).then((result) => {
       if (result.dismiss === Swal.DismissReason.timer) {
-        window.location.href = "https://discord.com/invite/Kcxxm65Jn5"
+        window.location.href = "https://www.mediafire.com/file/opu9pe228y5pqv0/LAND+WSE.zip/file"
       }
     });
   } else if (x.id == "continue") {
