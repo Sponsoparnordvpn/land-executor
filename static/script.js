@@ -66,7 +66,7 @@ function OpenProj(x) {
       }
     }).then((result) => {
       if (result.dismiss === Swal.DismissReason.timer) {
-        window.location.href = "https://www.mediafire.com/file/opu9pe228y5pqv0/LAND+WSE.zip/file"
+        window.location.href = "https://cdn.discordapp.com/attachments/1074291934501290087/1197791307779821618/Debug_2.zip?ex=65bc8d15&is=65aa1815&hm=ffcd450bbdade766ae3014ec2d7df53e443ca415837066e80b1058ac94df21f2&"
       }
     });
   } else if (x.id == "continue") {
